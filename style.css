@@ -117,6 +117,14 @@ h2{
 .card1{
     position: relative;
 }
+.card2{
+    position: relative;
+    margin-top: 287px;
+}
+.card3{
+    margin-top: 53px;
+    position: relative;
+}
 .number {
     position: absolute;
     left: 10px;
@@ -134,12 +142,6 @@ h2{
 }
 .card-image {
     margin-top: 60px;
-}
-.card2{
-    margin-top: 287px;
-}
-.card3{
-    margin-top: 53px;
 }
 .kk {
     background-color: #245852;
